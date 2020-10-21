@@ -11,8 +11,8 @@ namespace bajsgustaf
         static void Main(string[] args)
         {
 
-            //BajsbajsMycketbajs
             //BajscarlS
+            //BajsbajsMindreBajs
 
         }
     }
