@@ -8,6 +8,14 @@ namespace bajsgustaf
 {
     class Customer
     {
+
+
+        public void GetInfo()
+        {
+            int bajsbajs = 0;
+        }
+
+
     }
 
 
