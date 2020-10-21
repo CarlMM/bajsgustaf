@@ -13,7 +13,8 @@ namespace bajsgustaf
 
             //BajscarlS
             //BajsbajsMindreBajs
-
+            int bajs = 0;
+            string bajsMassa = "Carl";
         }
     }
 }
